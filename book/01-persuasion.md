@@ -38,7 +38,7 @@ Psychologist Robert Cialdini described several common patterns that can make a m
 
 ### Framing
 
-**Framing** is the way information is presented. It changes which features people notice first, even when the underlying item stays the same. Framing should clarify a real benefit, not create a false impression.
+**Framing** is the way information is presented. It changes which features people notice first, even when the underlying item stays the same. Framing should clarify a real benefit, as to not create a false impression.
 
 Consider the same plain white T-shirt:
 
