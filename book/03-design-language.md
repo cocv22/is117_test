@@ -20,6 +20,25 @@ In the mid-twentieth century, designers associated with the Swiss or Internation
 
 Its influence still appears in posters, transit systems, editorial layouts, websites, and product interfaces. A clean navigation bar, consistent spacing, and a clear headline-to-body-text relationship are contemporary relatives of this interest in visual order.
 
+## A Continuing Design Conversation
+
+```mermaid
+timeline
+    title From Modernist Systems to Contemporary Design Tensions
+    Early twentieth century : Modernist experiments
+                            : Form, function, and industrial change
+    1919 to 1933 : Bauhaus
+                 : Art, craft, technology, and functional design
+    Mid-twentieth century : Swiss / International Typographic Style
+                           : Grid, hierarchy, typography, and clarity
+    Later twentieth century : Postmodern reactions
+                            : Plurality, quotation, irony, and disruption
+    Today : Digital design
+          : Designers combine clarity, identity, expression, and usability
+```
+
+The timeline is a map of ideas, not a claim that one style completely replaced another. Earlier approaches remain active because different design problems call for different tools.
+
 ## Modernist Design Principles
 
 Modernist design is often described through the following principles:
