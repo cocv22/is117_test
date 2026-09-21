@@ -113,7 +113,7 @@ The diagram includes places where a person can pause, compare, decline, or seek 
 
 ## Explore Further
 
-For research beyond this chapter, try searches such as:
+Extra research beyond this chapter:
 
 - `Robert Cialdini principles of influence reciprocity social proof`
 - `choice architecture behavioral economics ethical design`
