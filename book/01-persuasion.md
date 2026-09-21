@@ -22,6 +22,8 @@ These ideas can look similar because all three can change behavior. The importan
 
 Ethical persuasion is transparent about what is being offered, avoids false claims, and leaves room for refusal. Manipulation may produce a quick click or sale, but it damages trust when people discover the tactic. Coercion is more serious still: it replaces choice with pressure.
 
+![Comparison of ethical persuasion, manipulation, and coercion: three labeled paths that show increasing pressure and decreasing freedom to choose.](images/01-persuasion-choice-spectrum.png)
+
 ## Cialdini's Principles of Influence
 
 Psychologist Robert Cialdini described several common patterns that can make a message more persuasive. These principles are not buttons that control people. They describe social shortcuts people often use when time, attention, or information is limited. Used honestly, they can help people notice useful information. Used carelessly, they can become manipulation.
@@ -33,6 +35,8 @@ Psychologist Robert Cialdini described several common patterns that can make a m
 - **Authority:** Relevant expertise can increase trust. A clothing company can explain its materials or testing process, but it should not pretend to have expertise it lacks.
 - **Scarcity:** A genuinely limited item can feel more valuable or urgent. A notice that a particular white T-shirt color is being discontinued is appropriate only when it is true.
 - **Unity:** People can be influenced by a shared identity or sense of belonging. A student organization might speak to fellow students as part of the same campus community without suggesting that membership proves someone is better than others.
+
+![Seven everyday, ethical examples of Cialdini's principles of influence arranged as a simple classroom infographic.](images/01-persuasion-influence-principles.png)
 
 ## A Few More Useful Ideas
 
@@ -48,11 +52,15 @@ Consider the same plain white T-shirt:
 
 The shirt has not changed. The message has connected its real features to different needs.
 
+![The same plain white T-shirt presented in three honest contexts: versatile packing, simple everyday wardrobe, and clear care information.](images/01-persuasion-framing-contexts.png)
+
 ### Cognitive Load and Choice Architecture
 
 People have limited time and attention. **Cognitive load** is the mental effort required to understand information or make a decision. Too many choices, unclear labels, and hidden costs make decisions harder.
 
 **Choice architecture** means arranging choices so people can understand them more easily. A respectful product page might put price, size options, material, delivery information, and returns policy where a shopper can find them before checkout. This helps the person decide; it should not use confusing defaults or buried cancellation steps to trap them.
+
+![Side-by-side comparison of a clear product-choice page and a confusing product-choice page, showing how cognitive load and choice architecture affect a shopper's decision.](images/01-persuasion-choice-architecture.png)
 
 ### Ethos, Pathos, and Logos
 
@@ -63,6 +71,8 @@ Classical rhetoric offers another useful lens:
 - **Logos** is reasoning and evidence. Measurements, prices, comparisons, and clear explanations support it.
 
 A responsible message usually combines all three. For the white T-shirt, a clear size chart supports logos, an honest description of the maker's expertise supports ethos, and an image of a comfortable everyday outfit may create pathos. None of these should contradict the actual product.
+
+![A balanced three-part visual showing ethos, pathos, and logos working together in an honest white T-shirt product message.](images/01-persuasion-rhetorical-appeals.png)
 
 ## Principles, Uses, and Risks
 
