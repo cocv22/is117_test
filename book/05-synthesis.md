@@ -16,6 +16,8 @@ The three lenses answer different questions:
 
 For example, a prompt for an AI-designed product page could be more useful when it says: "Help a student compare a plain white T-shirt with confidence; use an Everyperson voice; use a restrained grid, clear hierarchy, and direct labels." That instruction gives the AI a purpose, a meaning, and a visual direction. It is much clearer than "make a cool shirt page."
 
+![A three-part planning visual showing how persuasion defines the audience's decision, archetype defines the meaning and tone, and design language defines the visual presentation for an AI-assisted product page.](images/05-synthesis-three-lenses.png)
+
 ## Start With a Specification
 
 A **specification** is a clear description of what should be made, what must be included, what must not change, and how success will be checked. It gives an AI task boundaries.
@@ -53,6 +55,8 @@ Humans remain responsible for judgment, meaning, truthfulness, context, and fina
 
 Human review is a little like a race-car pit stop. The car and crew are built for motion, and automation can keep many systems running. But selected moments deserve a deliberate stop: someone inspects what matters, notices a loose part, and decides whether it is safe to continue. In AI-assisted work, do not wait for an accident to review the result. Plan meaningful inspection points before publishing, merging, or submitting.
 
+![A simple human-review pit-stop illustration: AI-assisted work moves through a workflow, pauses for deterministic checks and human judgment, then proceeds only after a deliberate review.](images/05-synthesis-human-review-pit-stop.png)
+
 ## Version Control Gives the Work a Memory
 
 Version control, such as Git, records changes over time. This matters when AI is generating work because AI can create many edits quickly, including edits you did not intend to keep.
@@ -81,6 +85,8 @@ flowchart LR
 ```
 
 The arrows back to the specification are important. A failed check may reveal a missing requirement. A human reviewer may realize that the goal, audience, or ethical boundary needs to be clearer. Revising the instruction is part of the work, not a sign of failure.
+
+![A complete AI-assisted workflow diagram showing human intent, specification, bounded AI work, deterministic checks, human review, and a versioned result, with revision loops returning to the specification.](images/05-synthesis-complete-workflow.png)
 
 ## A Practical Example
 

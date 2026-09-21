@@ -24,6 +24,8 @@ For this case study, assume the shirt is comfortable, well made, and plain white
 
 **Likely imagery:** A folded white T-shirt beside a small bag, a map, and a water bottle; a person wearing the shirt in an ordinary outdoor setting; close-ups that show its real fit.
 
+![An airy, honest travel product scene: a folded plain white T-shirt beside a small bag, paper map, and water bottle, with natural light and no wilderness or performance-gear claims.](images/04-white-tshirt-weekend-departure.png)
+
 **Meaning the customer is invited to buy:** "I am flexible, curious, and ready for the next stop."
 
 **Ethical risk or limitation:** The imagery could romanticize travel or imply performance the shirt cannot deliver. Do not use wilderness scenes to suggest weather protection, durability, or technical features the product does not have.
@@ -43,6 +45,8 @@ For this case study, assume the shirt is comfortable, well made, and plain white
 **Short product story:** The shirt is presented as a reliable starting point for ordinary days. Its value is not exclusivity. It is the relief of having one simple option that works with clothes already in the closet.
 
 **Likely imagery:** A front-and-back product view on a neutral background, a size guide, a small set of simple outfit combinations, and close-ups of fabric and construction.
+
+![A restrained product-information layout with front and back views of a plain white T-shirt, a simple size guide, neutral outfit combinations, and close-ups of fabric and construction.](images/04-white-tshirt-daily-uniform.png)
 
 **Meaning the customer is invited to buy:** "I can make everyday decisions simpler without giving up self-respect."
 
@@ -64,6 +68,8 @@ For this case study, assume the shirt is comfortable, well made, and plain white
 
 **Likely imagery:** A worktable with paint, fabric markers, and printed samples; cutout photos of different people styling the same shirt; process shots that show hands making rather than only polished final images.
 
+![A lively creative worktable with a plain white T-shirt, fabric markers, paint, printed samples, and hands customizing fabric; different people style the same shirt in a collage-like composition.](images/04-white-tshirt-starts-conversation.png)
+
 **Meaning the customer is invited to buy:** "I can turn an ordinary object into something personal."
 
 **Ethical risk or limitation:** The campaign must not present other artists' work as free decoration or assume every buyer has time, tools, or access to make custom clothing. It should also give accurate guidance about whether a technique works with the fabric.
@@ -83,6 +89,8 @@ For this case study, assume the shirt is comfortable, well made, and plain white
 **Short product story:** The shirt is positioned as a small dependable comfort in a busy week. The experience emphasizes understandable sizing, helpful service, and no-pressure decisions. The product is still just a shirt, but the customer is treated as someone whose time and comfort matter.
 
 **Likely imagery:** A person getting ready at home, close-up fabric photographs, a simple fit guide, and a service page that clearly explains support and returns.
+
+![A warm, calm everyday scene of a person getting ready at home with a plain white T-shirt, supported by a clear fit guide, fabric close-up, and easy-to-read support and returns information.](images/04-white-tshirt-comfortable-constant.png)
 
 **Meaning the customer is invited to buy:** "I deserve an everyday choice that feels considerate and easy."
 

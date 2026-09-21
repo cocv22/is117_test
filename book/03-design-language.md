@@ -39,6 +39,8 @@ timeline
 
 The timeline is a map of ideas, not a claim that one style completely replaced another. Earlier approaches remain active because different design problems call for different tools.
 
+![A classroom timeline visual connecting modernist experiments, the Bauhaus, Swiss or International Typographic Style, postmodern reactions, and contemporary digital design.](images/03-design-language-timeline.png)
+
 ## Modernist Design Principles
 
 Modernist design is often described through the following principles:
@@ -72,6 +74,8 @@ This does not make postmodernism careless. Breaking a rule communicates only whe
 
 The comparison is a guide, not a scorecard. Most current design mixes approaches depending on the situation. A medical appointment screen should favor clarity, while a festival poster or a creative portfolio may have more room for expressive risk.
 
+![Side-by-side visual comparison of a modernist and postmodern product page for the same plain white T-shirt: the left uses a grid, white space, and clear hierarchy; the right uses layered images, expressive type, and an off-grid collage.](images/03-design-language-modernist-postmodern-comparison.png)
+
 ## The Tension in Contemporary Digital Design
 
 Modernism did not end when postmodernism appeared. The tension between them continues in web and product design.
@@ -95,6 +99,8 @@ A modernist product page might use a quiet background, a carefully cropped produ
 A postmodern version might layer cutout images, handwritten-looking captions, oversized expressive type, visual references to several eras, and unexpected placements. It could present the shirt as an object to style, remix, or turn into a personal statement. The shirt itself has not changed, but the experience makes it feel more playful, culturally specific, or provocative.
 
 Both versions still need truthful product information, readable text, and accessible controls. Visual language can add meaning; it should not conceal the facts a shopper needs.
+
+![A close comparison of two honest white T-shirt presentations: a restrained modernist layout focused on product facts and a playful postmodern layout focused on self-expression, with key details still readable in both.](images/03-design-language-shirt-two-presentations.png)
 
 ## How to Read a Design
 

@@ -35,6 +35,8 @@ The following set is commonly used as a starting point. Each archetype represent
 
 The shirt below is physically identical in every version: a plain white T-shirt. Only the position, language, setting, and supporting experience change.
 
+![A comparison board showing the same plain white T-shirt presented through five brand archetypes: Everyperson, Creator, Explorer, Ruler, and Jester. Each panel changes the setting and message while keeping the shirt physically identical.](images/02-archetypes-same-shirt-different-meanings.png)
+
 ### Everyperson: The Reliable Everyday Basic
 
 This version treats the shirt as an uncomplicated part of real life. The message might emphasize an easy fit, straightforward care instructions, and how it works with clothes people already own. The audience gets to feel included and prepared without having to perform a special identity.
@@ -68,6 +70,8 @@ flowchart LR
 ```
 
 The path is not automatic. People bring their own experiences, needs, and cultural references to a message. A brand can offer meaning, but the audience decides whether that meaning feels relevant.
+
+![A simple visual journey from a plain white T-shirt to brand meaning, identity, and an audience response that ends with the person's free choice to compare, choose, or decline.](images/02-archetypes-meaning-journey.png)
 
 ## Archetypes Are Not Destiny
 
